@@ -6,4 +6,5 @@ Neural Networks implemented through tensorflow
 3) ANN implementation
 4) ANN vs CNN vs LSTM
 5) Solving MNIST dataset through neural networks
+6) PCA Analysis for dimensionality reduction.
 
